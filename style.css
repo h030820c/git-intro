@@ -2,3 +2,7 @@ body
 {
     color:papayawhip !Important;
 }
+p
+{
+    display:none;
+}
